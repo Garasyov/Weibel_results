@@ -1,6 +1,4 @@
-# Weibel instability PIC simulation
-## TEST 1 - Periodic box with constant injection of anisotropic particles
+# Collisional relativistic shock PIC simulation
 
-
-https://github.com/Garasyov/Weibel_results/assets/80035177/44958453-abe7-4641-b7e9-41fa3f6f53ba
+https://github.com/Garasyov/Weibel_results/assets/80035177/966c0231-72f7-4c2a-8cd4-3d1f25e08eca
 
