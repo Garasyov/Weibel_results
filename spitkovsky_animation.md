@@ -1,3 +1,3 @@
 # Collisional relativistic shock PIC simulation
 
-![Watch the video](https://github.com/Garasyov/Weibel_results/spit1_video.mp4)
+(https://content.cld.iop.org/journals/2041-8205/963/2/L44/revision1/apjlad2c8cf1_video.mp4?Expires=1735379034&Signature=T2Rl6RIPKYvNWmNGUKT8hjVr1V1mucxyEG82k3T7JMEqpIywm0pM5L7ymGJOKFJYfZ1FYldNeHiKlFkoMNmSVlaGdRxpS38nsxBklkV3saMMiuq3ToMg~ipEkg086QXV5J8Y1JzefIML5lmNYPd1CZ7P06cig6QBaSDcax9y11XCzWcIGYGhuj9L61utRPFNshBeKQwtq6pCpFtK6NlFgH5MhcTuh8zz6HOigZ1iPVIWGc0TWptZUToeVfDan8AgplzpsgD7WVExPa2dUwMEf-l5MO5miodzsL1cWymJU-9JK1hZMgtmIzgPVLSbdDYa-wSdrZeYliOOSm1hnrEASQ__&Key-Pair-Id=KL1D8TIY3N7T8)
